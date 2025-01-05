@@ -7,3 +7,4 @@ A wearable computer design to be used on the arm, based in Raspberry pi Zero 2 W
    * Raspberry Pi Zero 2 W
    * 3.5inch IPS Capacitive Touch LCD Display, 480×800 Waveshare
 2. **Sofware**:
+   * Raspberry Pi OS (Legacy, 32-bit)
